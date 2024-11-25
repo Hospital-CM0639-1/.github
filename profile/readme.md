@@ -14,10 +14,9 @@ Services:
   - administration of our hospital
 - Reception 
   - administration for patients
-  - 
   - separeted from management for better scalability
 - Emergency
-  - 
+  - tool for emergency
 - Doctors
   - tools for doctors 
 - Cronjobs
