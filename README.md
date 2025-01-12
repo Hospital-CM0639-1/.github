@@ -154,4 +154,28 @@ The database is seeded with default users for each role. Use the credentials bel
 **Note**: New users are created with the default password `P4ssword1@`. They are required to change their password upon
 first login.
 
+---
 
+## STEPS TO TRY APPLICATION
+
+- **ADMIN**: 
+   - Login with an admin user.
+   - Click the various buttons to show the list of users, filtered by type.
+   - Try to create/edit users of each type.
+   - When you create a user, try to login with it and default password; the app should ask you to change the password.
+- **PATIENT**:
+   - Login with a patient user (ie: patient1)
+   - TODO
+- **DOCTOR**:
+  - Login with a doctor user (ie: doctor1)
+  - TODO
+- **NURSE**:
+  - Login with a nurse user (ie: nurse1)
+  - TODO
+- **SECRETARY**:
+  - Login with a nurse secretary (ie: secretary1)
+  - Try to create a new patient user;
+  - Show the detail of a patient and try to edit it;
+  - Change the password of a patient;
+  - Try to edit the triage form of some patients.
+  - Click on Billing invoice in the top menu and try to add a new or edit an existent one.
