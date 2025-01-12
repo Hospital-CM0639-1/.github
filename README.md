@@ -118,9 +118,10 @@ Follow these steps to run the application:
 
 ### 8. Client
 
-- **Work in Progress**
-
----
+- Run:
+  ```bash
+  docker-compose up
+  ```
 
 Once all services are running, you can access the application at:
 [http://localhost:4200](http://localhost:4200)
